@@ -1,0 +1,11 @@
+#target {}
+.event_container {height:auto;min-height:65px;overflow:hidden;clear:both;font-size:12px;border-bottom:1px solid #cccccc;}
+.event_container a {font-weight:bold;}
+.left_info {width:34px;margin-right:5px;float:left;}
+.author {height:34px;}
+.author img {border-radius:3px;margin:2px}
+.icon {text-align:center;}
+.date {text-align:center;font-size:10px}
+.right_info {margin-right:5px;}
+.listCommit {padding-left:50px;margin:0;}
+.listCommit li {list-style:disc;}
